@@ -73,6 +73,7 @@ printBoard(board)
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/b12f5fb7-18a2-4345-9caf-c5743b51abef)
 
 
 
