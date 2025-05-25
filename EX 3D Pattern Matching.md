@@ -13,11 +13,9 @@ To write a python program to implement pattern matching on the given string usin
 5. If no match is found till the end, return 0.  
 
 ## Program:
-```
-Program to implement the Pattern Matching.
-Developed by: LOKNAATH P 
-Register Number: 212223240080
-```
+### Program to implement the Pattern Matching.
+### Developed by: THARUN V K
+### Register Number: 212223230231 
 ```python
 def BF(s1,s2):
 ##############  Add your code here #############
