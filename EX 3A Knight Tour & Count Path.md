@@ -12,11 +12,9 @@ To write a python program to find minimum steps to reach to specific cell in min
 5. Repeat until the target is reached, and return the number of steps (distance).
 
 ## Program:
-```
-Program to implement to find minimum steps to reach to specific cell in minimum moves by knight.
-Developed by: LOKNAATH P
-Register Number: 212223240080
-```
+### Program to implement to find minimum steps to reach to specific cell in minimum moves by knight.
+### Developed by: THARUN V K
+### Register Number: 212223230231 
 ```python
 from collections import deque
 
