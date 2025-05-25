@@ -11,11 +11,9 @@ To write a python program to check whether Hamiltonian path exits in the given g
 5. If no such path is found after checking all options, return "NO".
 
 ## Program:
-```
-Program to implement to check whether Hamiltonian path exits in the given graph.
-Developed by: LOKNAATH P
-Register Number: 212223240080
-```
+### Program to implement to check whether Hamiltonian path exits in the given graph.
+### Developed by: THARUN V K
+### Register Number: 212223230231 
 ```python
 def isSafe(v, pos, path, adj):
     if adj[path[pos-1]][v] == 0:
