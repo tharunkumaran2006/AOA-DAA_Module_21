@@ -12,11 +12,9 @@ To write a python program to find the solution of sudoku puzzle using Backtracki
 5. If the board is completely filled without conflicts, print the solution. 
 
 ## Program:
-```
-Program to implement to to find the solution of sudoku puzzle using Backtracking.
-Developed by: LOKNAATH P
-Register Number: 212223240080
-```
+### Program to implement to to find the solution of sudoku puzzle using Backtracking.
+### Developed by: THARUN V K
+### Register Number: 212223230231 
 ```python
 board = [
     [0, 0, 0, 8, 0, 0, 4, 0, 3],
